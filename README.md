@@ -26,7 +26,7 @@ There are still a few things that need to be addressed to accomplish this feat, 
 - **A way to be able to observe changes of some composable content**. The current `view.isDirty` is not available for `Modifier.graphicsLayers` and requires more practice here.
 - **Support `RenderEffect` and more.**
 
-
+> In addition, for the reasons and performance issues regarding the birth of this library see [this thread](https://kotlinlang.slack.com/archives/CJLTWPH7S/p1651861216776359?thread_ts=1651845634.528419&cid=CJLTWPH7S), [@romainguy](https://github.com/romainguy) explains it very well 🙂.
 
 ## Contribution
 
