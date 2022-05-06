@@ -6,7 +6,7 @@
 
 **This project is completely experimental right now, it's far from production usable, and it still has a lot of bugs to be fixed.**
 
-https://raw.githubusercontent.com/chachako/visual-effects/main/.art/preview.mp4
+https://user-images.githubusercontent.com/58068445/167137785-663904e2-c443-4e11-933f-e5b35d35902c.mp4
 
 
 
