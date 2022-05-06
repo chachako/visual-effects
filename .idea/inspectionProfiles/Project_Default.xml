@@ -1,0 +1,10 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="$BUILD_DOKKA$" level="WEAK WARNING" enabled_by_default="$BUILD_DOKKA$">
+      <Languages>
+        <language minSize="146" name="Kotlin" />
+      </Languages>
+    </inspection_tool>
+  </profile>
+</component>
